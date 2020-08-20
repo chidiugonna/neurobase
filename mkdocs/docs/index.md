@@ -1,25 +1,23 @@
 # neurobase
 ## the neuroimaging knowledge-base
 
-A collection of resources covering a variety of computing skills and computational concepts that are relevant to neuroimaging and neuroscience. This is an unfiltered dump of day to day activities that will gradually be editted into something that can be shared.
+A collection of resources to support learning, implementation and development of computational neuroimaging techniques with a primary focus on Magnetic Resonance Imaging (MRI) based approaches.
 
-GitHub page at [chidiugonna/neurobase.git](https://github.com/chidiugonna/neurobase.git).
+The GitHub page associated with this site is located at [https://github.com/chidiugonna/neurobase.git](https://github.com/chidiugonna/neurobase.git).
+
 
 
 ### MRI Reconstruction
 
-* MRI simulation with gadgetron
-* MRI reconstruction toolboxes 
+* MRI reconstruction using gadgetron 
 
 
 ### Neuroimaging techniques
 
-* Neuroscientific basis of fMRI
-* fMRI pipelines
+* Surface-based analysis 
 
 
 ### Data management
 
-* GIT , DataLad
-* CIFTI, NIFTI and GIFTI
+* DataLad for neuroimaging provenance
 
